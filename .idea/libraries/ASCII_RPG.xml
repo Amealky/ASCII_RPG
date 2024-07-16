@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ASCII_RPG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ASCII_RPG_jar/ASCII_RPG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
